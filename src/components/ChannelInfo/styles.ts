@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
+    grid-area: CI;
     display: flex;
     align-items: center;
 
